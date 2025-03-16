@@ -12,8 +12,10 @@
     "prepare": "husky"
   },
   "dependencies": {
+    "@auth/core": "^0.38.0",
     "@headlessui/react": "2.2.0",
     "@next/bundle-analyzer": "15.1.4",
+    "@supabase/supabase-js": "^2.49.1",
     "@tailwindcss/forms": "^0.5.9",
     "@tailwindcss/postcss": "^4.0.5",
     "@tailwindcss/typography": "^0.5.15",
@@ -25,6 +27,7 @@
     "hast-util-from-html-isomorphic": "^2.0.0",
     "image-size": "1.0.0",
     "next": "15.1.4",
+    "next-auth": "latest",
     "next-contentlayer2": "0.5.4",
     "next-themes": "^0.3.0",
     "pliny": "0.4.1",
